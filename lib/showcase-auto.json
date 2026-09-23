@@ -19,6 +19,42 @@
   },
   {
     "source": "baoyu",
+    "group": "raster-slides",
+    "asset": "screenshots/slide-deck-styles/blueprint.webp",
+    "slug": "auto-baoyu-blueprint-98a504f428",
+    "title": "blueprint",
+    "category": "slides",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "ac390d374abdc3872e849c8b0ded2676b775c5e5",
+    "sha256": "2d53f74a2e42bff70350b8bc707bcccf90468287a4e05b9c5da89122324c8065",
+    "media": {
+      "src": "/showcase/auto-2d53f74a2e42bff70350b8bc.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "source": "baoyu",
+    "group": "raster-slides",
+    "asset": "screenshots/slide-deck-styles/bold-editorial.webp",
+    "slug": "auto-baoyu-bold-editorial-27b469f0d2",
+    "title": "bold editorial",
+    "category": "slides",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "df043c52f8d295bd94ca15778c5bcfb1b64cada8",
+    "sha256": "e35651b9a9bdd55fad8c7759cfc38f8b065e5ac2bdd832d663dad084389747b6",
+    "media": {
+      "src": "/showcase/auto-e35651b9a9bdd55fad8c7759.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "source": "baoyu",
     "group": "cover",
     "asset": "screenshots/cover-image-styles/chalkboard.webp",
     "slug": "auto-baoyu-chalkboard-34605d221b",
@@ -55,6 +91,24 @@
   },
   {
     "source": "baoyu",
+    "group": "raster-slides",
+    "asset": "screenshots/slide-deck-styles/chalkboard.webp",
+    "slug": "auto-baoyu-chalkboard-9c34266464",
+    "title": "chalkboard",
+    "category": "slides",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "772390c6460d3d3b54ba4d3e1937a3a41d80f98a",
+    "sha256": "8b90f316a43d4425dd83fd65caac9d95dd2a6d6617af343cc1aed4352ecf1e27",
+    "media": {
+      "src": "/showcase/auto-8b90f316a43d4425dd83fd65.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "source": "baoyu",
     "group": "cover",
     "asset": "screenshots/cover-image-styles/dark-atmospheric.webp",
     "slug": "auto-baoyu-dark-atmospheric-22b9039001",
@@ -70,6 +124,24 @@
     },
     "createdAt": "2026-09-19",
     "updatedAt": "2026-09-19"
+  },
+  {
+    "source": "baoyu",
+    "group": "infographic",
+    "asset": "screenshots/infographic-layouts/do-dont.webp",
+    "slug": "auto-baoyu-do-dont-411561b70a",
+    "title": "do dont",
+    "category": "image",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "efe96ad87edc7faf8122442ea1200d351b8bb71a",
+    "sha256": "fc29461c50bf2b1d6573409806f06866bf5aff6d0714b0887301bdff1418a8ed",
+    "media": {
+      "src": "/showcase/auto-fc29461c50bf2b1d65734098.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
   },
   {
     "source": "baoyu",
@@ -145,6 +217,24 @@
   },
   {
     "source": "baoyu",
+    "group": "infographic",
+    "asset": "screenshots/infographic-layouts/equation.webp",
+    "slug": "auto-baoyu-equation-3ef8ec2d0a",
+    "title": "equation",
+    "category": "image",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "3e415eaf0c40aad6f66005edf4009df541ba3581",
+    "sha256": "8d6411f787f9314d5413e69b77593d091b7168c7442071d4cf6d4f12063f6abe",
+    "media": {
+      "src": "/showcase/auto-8d6411f787f9314d5413e69b.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "source": "baoyu",
     "group": "cover",
     "asset": "screenshots/cover-image-styles/fantasy-animation.webp",
     "slug": "auto-baoyu-fantasy-animation-64948fb194",
@@ -181,6 +271,24 @@
   },
   {
     "source": "baoyu",
+    "group": "infographic",
+    "asset": "screenshots/infographic-layouts/feature-list.webp",
+    "slug": "auto-baoyu-feature-list-2a456d63f0",
+    "title": "feature list",
+    "category": "image",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "948712754ffc75cced4080baff600a9b779c9762",
+    "sha256": "d275dbe37fb52ea543d1aca23b16878ade047e96d0e39372a10cac0d8a07ad94",
+    "media": {
+      "src": "/showcase/auto-d275dbe37fb52ea543d1aca2.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "source": "baoyu",
     "group": "illustration",
     "asset": "screenshots/article-illustrator-styles/flat.webp",
     "slug": "auto-baoyu-flat-7ab7c7a999",
@@ -214,6 +322,24 @@
     },
     "createdAt": "2026-09-22",
     "updatedAt": "2026-09-22"
+  },
+  {
+    "source": "baoyu",
+    "group": "infographic",
+    "asset": "screenshots/infographic-layouts/grid-cards.webp",
+    "slug": "auto-baoyu-grid-cards-9dffe88c43",
+    "title": "grid cards",
+    "category": "image",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "da22c5a2795537eb7c7d4830c7cf4b6cc14a2b5c",
+    "sha256": "0e75a77587df1c404240d98c75a00493ca04ad2bb0fad92a60256935cc893ee7",
+    "media": {
+      "src": "/showcase/auto-0e75a77587df1c404240d98c.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
   },
   {
     "source": "baoyu",
@@ -325,6 +451,24 @@
   },
   {
     "source": "baoyu",
+    "group": "infographic",
+    "asset": "screenshots/infographic-layouts/nested-circles.webp",
+    "slug": "auto-baoyu-nested-circles-8585570540",
+    "title": "nested circles",
+    "category": "image",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "15c166c782c35e70a7cf700a8f8231c03741978d",
+    "sha256": "3171a55f05c0adc12de553287afd342129c5a9c363c946b07b4bd820019c12fd",
+    "media": {
+      "src": "/showcase/auto-3171a55f05c0adc12de55328.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "source": "baoyu",
     "group": "illustration",
     "asset": "screenshots/article-illustrator-styles/notion.webp",
     "slug": "auto-baoyu-notion-7744b54a30",
@@ -415,6 +559,24 @@
   },
   {
     "source": "baoyu",
+    "group": "infographic",
+    "asset": "screenshots/infographic-layouts/pyramid.webp",
+    "slug": "auto-baoyu-pyramid-577fada2bf",
+    "title": "pyramid",
+    "category": "image",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "a8ff493b87f39cd0aa111e88c5f9cc2745d653c5",
+    "sha256": "dc20b7a42d08b39dda535edfda00e9051632e35ee190598c87155e5d20034734",
+    "media": {
+      "src": "/showcase/auto-dc20b7a42d08b39dda535edf.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "source": "baoyu",
     "group": "illustration",
     "asset": "screenshots/article-illustrator-styles/retro.webp",
     "slug": "auto-baoyu-retro-70ad520eaa",
@@ -448,6 +610,24 @@
     },
     "createdAt": "2026-09-22",
     "updatedAt": "2026-09-22"
+  },
+  {
+    "source": "baoyu",
+    "group": "infographic",
+    "asset": "screenshots/infographic-layouts/scale-balance.webp",
+    "slug": "auto-baoyu-scale-balance-978d90255d",
+    "title": "scale balance",
+    "category": "image",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "8143a200d0af2d556b87c2699ad1bf37a8d64645",
+    "sha256": "fc6ff120ce2dcbf8f7be1d1c729826a1340001988427b32a1caf020062f967a5",
+    "media": {
+      "src": "/showcase/auto-fc6ff120ce2dcbf8f7be1d1c.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
   },
   {
     "source": "baoyu",
@@ -595,6 +775,24 @@
   },
   {
     "source": "baoyu",
+    "group": "infographic",
+    "asset": "screenshots/infographic-layouts/venn.webp",
+    "slug": "auto-baoyu-venn-73b3a988f6",
+    "title": "venn",
+    "category": "image",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "d0a08b9b13b0c068275b3e79c499fd6c3318a210",
+    "sha256": "a2408983d2c300110ff2a73ad911a9f94c0573ffb87baf9def571d47e881b725",
+    "media": {
+      "src": "/showcase/auto-a2408983d2c300110ff2a73a.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
+  },
+  {
+    "source": "baoyu",
     "group": "illustration",
     "asset": "screenshots/article-illustrator-styles/vintage.webp",
     "slug": "auto-baoyu-vintage-7f4a4d9ab7",
@@ -628,6 +826,24 @@
     },
     "createdAt": "2026-09-22",
     "updatedAt": "2026-09-22"
+  },
+  {
+    "source": "baoyu",
+    "group": "cover",
+    "asset": "screenshots/cover-image-styles/warm.webp",
+    "slug": "auto-baoyu-warm-78d0f23872",
+    "title": "warm",
+    "category": "image",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "b521690b572ae42f2982bee11d265956fb694fc9",
+    "sha256": "c44f0b0f766799dc956e4616749b74dd8a11718bba373c69ba19dec51c05ef79",
+    "media": {
+      "src": "/showcase/auto-c44f0b0f766799dc956e4616.webp",
+      "width": 1584,
+      "height": 672
+    },
+    "createdAt": "2026-09-23",
+    "updatedAt": "2026-09-23"
   },
   {
     "source": "baoyu",

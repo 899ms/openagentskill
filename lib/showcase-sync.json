@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-09-22T06:19:10.258Z",
-  "updatedAt": "2026-09-22",
+  "checkedAt": "2026-09-23T06:03:20.228Z",
+  "updatedAt": "2026-09-23",
   "sources": [
     {
       "source": "baoyu",
@@ -23,7 +23,7 @@
     {
       "source": "huashu",
       "repository": "alchaincyf/huashu-design",
-      "revision": "0e842afc1fa4f008071e34ae1df16c66d3f5d18a",
+      "revision": "0830494ecb1c117e25b313a8114fe55a6bf2b125",
       "candidates": 6,
       "missing": [],
       "skips": [],
@@ -32,7 +32,7 @@
   ],
   "added": 12,
   "updated": 0,
-  "unchanged": 24,
+  "unchanged": 36,
   "skipped": 0,
-  "deferred": 38
+  "deferred": 26
 }
