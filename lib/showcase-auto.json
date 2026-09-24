@@ -109,6 +109,24 @@
   },
   {
     "source": "baoyu",
+    "group": "social",
+    "asset": "screenshots/xhs-images-layouts/comparison.webp",
+    "slug": "auto-baoyu-comparison-16dc13e6d9",
+    "title": "comparison",
+    "category": "image",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "d4ee9d0be84538324ffb27fcda2b088fa77d78bc",
+    "sha256": "3e287499bf20c03ffc5f910a62c1e3dba8d9c3c8b13986307a2aeabfefaa658e",
+    "media": {
+      "src": "/showcase/auto-3e287499bf20c03ffc5f910a.webp",
+      "width": 896,
+      "height": 1200
+    },
+    "createdAt": "2026-09-24",
+    "updatedAt": "2026-09-24"
+  },
+  {
+    "source": "baoyu",
     "group": "cover",
     "asset": "screenshots/cover-image-styles/dark-atmospheric.webp",
     "slug": "auto-baoyu-dark-atmospheric-22b9039001",
@@ -124,6 +142,24 @@
     },
     "createdAt": "2026-09-19",
     "updatedAt": "2026-09-19"
+  },
+  {
+    "source": "baoyu",
+    "group": "raster-slides",
+    "asset": "screenshots/slide-deck-styles/dark-atmospheric.webp",
+    "slug": "auto-baoyu-dark-atmospheric-79b96c63d4",
+    "title": "dark atmospheric",
+    "category": "slides",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "7f80ceb0008af3fd3e114958f82869625b70e2da",
+    "sha256": "6e5d4f9537da99948eeb7e55b711419f7b37630d2a4f46bb5c899475ac2b96f8",
+    "media": {
+      "src": "/showcase/auto-6e5d4f9537da99948eeb7e55.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-24",
+    "updatedAt": "2026-09-24"
   },
   {
     "source": "baoyu",
@@ -271,6 +307,24 @@
   },
   {
     "source": "baoyu",
+    "group": "raster-slides",
+    "asset": "screenshots/slide-deck-styles/fantasy-animation.webp",
+    "slug": "auto-baoyu-fantasy-animation-8e6503c600",
+    "title": "fantasy animation",
+    "category": "slides",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "fa61812be3a9608708ea1ac7e349bbbd37a2cffe",
+    "sha256": "db379221bccf62ccc55bfe3fb57210cfedfdb8de5a29dbc2a30eb2cb148341b0",
+    "media": {
+      "src": "/showcase/auto-db379221bccf62ccc55bfe3f.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-24",
+    "updatedAt": "2026-09-24"
+  },
+  {
+    "source": "baoyu",
     "group": "infographic",
     "asset": "screenshots/infographic-layouts/feature-list.webp",
     "slug": "auto-baoyu-feature-list-2a456d63f0",
@@ -379,6 +433,24 @@
   },
   {
     "source": "baoyu",
+    "group": "raster-slides",
+    "asset": "screenshots/slide-deck-styles/intuition-machine.webp",
+    "slug": "auto-baoyu-intuition-machine-e6bc453fa2",
+    "title": "intuition machine",
+    "category": "slides",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "c240af4f72aeebce32153a2726f1071002bfee59",
+    "sha256": "8f97baae1c4d289e6927f0c54e2ac7ee6287838f16fa8a87adedc90050a93876",
+    "media": {
+      "src": "/showcase/auto-8f97baae1c4d289e6927f0c5.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-24",
+    "updatedAt": "2026-09-24"
+  },
+  {
+    "source": "baoyu",
     "group": "illustration",
     "asset": "screenshots/article-illustrator-styles/minimal.webp",
     "slug": "auto-baoyu-minimal-bed6864e13",
@@ -412,6 +484,24 @@
     },
     "createdAt": "2026-09-22",
     "updatedAt": "2026-09-22"
+  },
+  {
+    "source": "baoyu",
+    "group": "raster-slides",
+    "asset": "screenshots/slide-deck-styles/minimal.webp",
+    "slug": "auto-baoyu-minimal-f79acbca97",
+    "title": "minimal",
+    "category": "slides",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "09165201ed0d71b3183817249d221472e04ca437",
+    "sha256": "bfd2105d05f3a5d6a88ccd88ceae3a762155a5725fb876d266013ed907b96b73",
+    "media": {
+      "src": "/showcase/auto-bfd2105d05f3a5d6a88ccd88.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-24",
+    "updatedAt": "2026-09-24"
   },
   {
     "source": "baoyu",
@@ -469,6 +559,24 @@
   },
   {
     "source": "baoyu",
+    "group": "raster-slides",
+    "asset": "screenshots/slide-deck-styles/notion.webp",
+    "slug": "auto-baoyu-notion-6268c4b7b9",
+    "title": "notion",
+    "category": "slides",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "e249e3805d870435208453c51df05e11f7013670",
+    "sha256": "852bf1ebf68bcc11f78b4c4c13b24e8d5c41cae3a4f0148d5016ad831bb90166",
+    "media": {
+      "src": "/showcase/auto-852bf1ebf68bcc11f78b4c4c.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-24",
+    "updatedAt": "2026-09-24"
+  },
+  {
+    "source": "baoyu",
     "group": "illustration",
     "asset": "screenshots/article-illustrator-styles/notion.webp",
     "slug": "auto-baoyu-notion-7744b54a30",
@@ -520,6 +628,24 @@
     },
     "createdAt": "2026-09-22",
     "updatedAt": "2026-09-22"
+  },
+  {
+    "source": "baoyu",
+    "group": "raster-slides",
+    "asset": "screenshots/slide-deck-styles/pixel-art.webp",
+    "slug": "auto-baoyu-pixel-art-a01d3584f5",
+    "title": "pixel art",
+    "category": "slides",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "06064c1fa2d6c594aed83a7ac9aede6af55a872b",
+    "sha256": "694dfb3753d330f73440522b8429ee837151ce9e62e33246f9b23203a233be76",
+    "media": {
+      "src": "/showcase/auto-694dfb3753d330f73440522b.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-24",
+    "updatedAt": "2026-09-24"
   },
   {
     "source": "baoyu",
@@ -667,6 +793,24 @@
   },
   {
     "source": "baoyu",
+    "group": "raster-slides",
+    "asset": "screenshots/slide-deck-styles/sketch-notes.webp",
+    "slug": "auto-baoyu-sketch-notes-3aa2ea5d75",
+    "title": "sketch notes",
+    "category": "slides",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "b984394a0c554f54d7f8a95d50e1317598944670",
+    "sha256": "72ce65862badd37de5475e90c342f91388c17898fce4a19110849cddd11b99bf",
+    "media": {
+      "src": "/showcase/auto-72ce65862badd37de5475e90.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-24",
+    "updatedAt": "2026-09-24"
+  },
+  {
+    "source": "baoyu",
     "group": "illustration",
     "asset": "screenshots/article-illustrator-styles/sketch-notes.webp",
     "slug": "auto-baoyu-sketch-notes-afda2c60b6",
@@ -700,6 +844,24 @@
     },
     "createdAt": "2026-09-22",
     "updatedAt": "2026-09-22"
+  },
+  {
+    "source": "baoyu",
+    "group": "social",
+    "asset": "screenshots/xhs-images-layouts/sparse.webp",
+    "slug": "auto-baoyu-sparse-3265cdab95",
+    "title": "sparse",
+    "category": "image",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "b56f12575c37db92c58afc3346577779ff3b38fc",
+    "sha256": "0dcfea28161d4309246f9f238b4155cebaa825ff3ca56110631fd64f5608aaab",
+    "media": {
+      "src": "/showcase/auto-0dcfea28161d4309246f9f23.webp",
+      "width": 896,
+      "height": 1200
+    },
+    "createdAt": "2026-09-24",
+    "updatedAt": "2026-09-24"
   },
   {
     "source": "baoyu",
@@ -811,6 +973,24 @@
   },
   {
     "source": "baoyu",
+    "group": "raster-slides",
+    "asset": "screenshots/slide-deck-styles/vintage.webp",
+    "slug": "auto-baoyu-vintage-ad0abc4f7a",
+    "title": "vintage",
+    "category": "slides",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "db205d2e8939164b8e1e0b20fc821680ef8b1ffe",
+    "sha256": "6b482d9f1ed2b492d06aaec794b9f62822b5d6bade64e9178553b5ba27e00be1",
+    "media": {
+      "src": "/showcase/auto-6b482d9f1ed2b492d06aaec7.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-24",
+    "updatedAt": "2026-09-24"
+  },
+  {
+    "source": "baoyu",
     "group": "cover",
     "asset": "screenshots/cover-image-styles/vintage.webp",
     "slug": "auto-baoyu-vintage-ae2242886c",
@@ -862,5 +1042,41 @@
     },
     "createdAt": "2026-09-19",
     "updatedAt": "2026-09-19"
+  },
+  {
+    "source": "baoyu",
+    "group": "raster-slides",
+    "asset": "screenshots/slide-deck-styles/watercolor.webp",
+    "slug": "auto-baoyu-watercolor-fa14873b5b",
+    "title": "watercolor",
+    "category": "slides",
+    "revision": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "blobSha": "46043e1be069e52a9f291eebfe6bb6d0d289a1fe",
+    "sha256": "6268745f20ea918801c81af87e7e0406e36a86e46a235fc5ca2eeda01dbda5b6",
+    "media": {
+      "src": "/showcase/auto-6268745f20ea918801c81af8.webp",
+      "width": 1376,
+      "height": 768
+    },
+    "createdAt": "2026-09-24",
+    "updatedAt": "2026-09-24"
+  },
+  {
+    "source": "frontend",
+    "group": "frontend",
+    "asset": "screenshots/blue-professional-1.png",
+    "slug": "auto-frontend-blue-professional-1-a7b052f096",
+    "title": "blue professional 1",
+    "category": "slides",
+    "revision": "e5e204fb1f3b06290846e7dcd7aceddabeceec8c",
+    "blobSha": "32570d391c4ab0b19787130304b521501e367dec",
+    "sha256": "0f08aefe70cb14ca7f3126ecc2f34319ca8f281ecdf81c6d6486ea93b2236f8c",
+    "media": {
+      "src": "/showcase/auto-0f08aefe70cb14ca7f3126ec.png",
+      "width": 1920,
+      "height": 1080
+    },
+    "createdAt": "2026-09-24",
+    "updatedAt": "2026-09-24"
   }
 ]
