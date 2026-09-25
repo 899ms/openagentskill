@@ -1078,5 +1078,221 @@
     },
     "createdAt": "2026-09-24",
     "updatedAt": "2026-09-24"
+  },
+  {
+    "source": "frontend",
+    "group": "frontend",
+    "asset": "screenshots/coral-1.png",
+    "slug": "auto-frontend-coral-1-a785f369ef",
+    "title": "coral 1",
+    "category": "slides",
+    "revision": "e5e204fb1f3b06290846e7dcd7aceddabeceec8c",
+    "blobSha": "2cc5a090e306e3af129cedc2f9ea181a1278b29d",
+    "sha256": "3cce11542e0c380396c14d2e7ac7406af704af163e7ba85b8ce9e2fdf7d12015",
+    "media": {
+      "src": "/showcase/auto-3cce11542e0c380396c14d2e.png",
+      "width": 1920,
+      "height": 1080
+    },
+    "createdAt": "2026-09-25",
+    "updatedAt": "2026-09-25"
+  },
+  {
+    "source": "frontend",
+    "group": "frontend",
+    "asset": "screenshots/emerald-editorial-1.png",
+    "slug": "auto-frontend-emerald-editorial-1-a2f7a34831",
+    "title": "emerald editorial 1",
+    "category": "slides",
+    "revision": "e5e204fb1f3b06290846e7dcd7aceddabeceec8c",
+    "blobSha": "6ca8fa0da3f40e9b046a5cd5142eed92a3c19034",
+    "sha256": "fda35bb4c4810369a5c5bccd70cbcd9d474691027c79a0d94ebf59dbf673c150",
+    "media": {
+      "src": "/showcase/auto-fda35bb4c4810369a5c5bccd.png",
+      "width": 1920,
+      "height": 1080
+    },
+    "createdAt": "2026-09-25",
+    "updatedAt": "2026-09-25"
+  },
+  {
+    "source": "frontend",
+    "group": "frontend",
+    "asset": "screenshots/grove-1.png",
+    "slug": "auto-frontend-grove-1-f6bec177df",
+    "title": "grove 1",
+    "category": "slides",
+    "revision": "e5e204fb1f3b06290846e7dcd7aceddabeceec8c",
+    "blobSha": "6c09bd3766a7a7b6211bfb555bba022ec34457f8",
+    "sha256": "6a01598d4b183837b96c698eb9453962fea4bea072a431ee4d71aef6e09da3eb",
+    "media": {
+      "src": "/showcase/auto-6a01598d4b183837b96c698e.png",
+      "width": 1920,
+      "height": 1080
+    },
+    "createdAt": "2026-09-25",
+    "updatedAt": "2026-09-25"
+  },
+  {
+    "source": "frontend",
+    "group": "frontend",
+    "asset": "screenshots/mat-1.png",
+    "slug": "auto-frontend-mat-1-ac9d8a4410",
+    "title": "mat 1",
+    "category": "slides",
+    "revision": "e5e204fb1f3b06290846e7dcd7aceddabeceec8c",
+    "blobSha": "3aa953945b1826517c41d90b07d378163f004fb1",
+    "sha256": "acac0ac30af8fbb206adfb6810573c72d3ca96b00293f9f850fdeefed1ae11dc",
+    "media": {
+      "src": "/showcase/auto-acac0ac30af8fbb206adfb68.png",
+      "width": 1920,
+      "height": 1080
+    },
+    "createdAt": "2026-09-25",
+    "updatedAt": "2026-09-25"
+  },
+  {
+    "source": "frontend",
+    "group": "frontend",
+    "asset": "screenshots/monochrome-1.png",
+    "slug": "auto-frontend-monochrome-1-27419216c7",
+    "title": "monochrome 1",
+    "category": "slides",
+    "revision": "e5e204fb1f3b06290846e7dcd7aceddabeceec8c",
+    "blobSha": "9d78e2ac753685d3db3032bb2c0b187ea7d31289",
+    "sha256": "bac6b00bf1d0b3c97b19d2a0c45edf44af5cbf369f2cf3ebe78a207a7b6b8c7b",
+    "media": {
+      "src": "/showcase/auto-bac6b00bf1d0b3c97b19d2a0.png",
+      "width": 1920,
+      "height": 1080
+    },
+    "createdAt": "2026-09-25",
+    "updatedAt": "2026-09-25"
+  },
+  {
+    "source": "frontend",
+    "group": "frontend",
+    "asset": "screenshots/peoples-platform-1.png",
+    "slug": "auto-frontend-peoples-platform-1-79f3d938c9",
+    "title": "peoples platform 1",
+    "category": "slides",
+    "revision": "e5e204fb1f3b06290846e7dcd7aceddabeceec8c",
+    "blobSha": "5e5c1771910974cada77e34c91dd203cc5a15de2",
+    "sha256": "9a0c40acaa0fb9c058745cbd16c875f9b7a0417d46c6c37dede388e32cf52d25",
+    "media": {
+      "src": "/showcase/auto-9a0c40acaa0fb9c058745cbd.png",
+      "width": 1920,
+      "height": 1080
+    },
+    "createdAt": "2026-09-25",
+    "updatedAt": "2026-09-25"
+  },
+  {
+    "source": "frontend",
+    "group": "frontend",
+    "asset": "screenshots/playful-1.png",
+    "slug": "auto-frontend-playful-1-670e7a75c9",
+    "title": "playful 1",
+    "category": "slides",
+    "revision": "e5e204fb1f3b06290846e7dcd7aceddabeceec8c",
+    "blobSha": "95850d0abbca52532e1a034ce84100e843f48060",
+    "sha256": "75c22cf0736c2c349599de769e984af4e55440dbf83fb4abac35e5c0842abe81",
+    "media": {
+      "src": "/showcase/auto-75c22cf0736c2c349599de76.png",
+      "width": 1920,
+      "height": 1080
+    },
+    "createdAt": "2026-09-25",
+    "updatedAt": "2026-09-25"
+  },
+  {
+    "source": "frontend",
+    "group": "frontend",
+    "asset": "screenshots/raw-grid-1.png",
+    "slug": "auto-frontend-raw-grid-1-1fab7d7cfd",
+    "title": "raw grid 1",
+    "category": "slides",
+    "revision": "e5e204fb1f3b06290846e7dcd7aceddabeceec8c",
+    "blobSha": "0d9d665a8b00b2c5d7cece354ccc061fb123a669",
+    "sha256": "4056c85b9415ba7a9a988d45f5316cbdfbaf18ee959e3f7727e2ef90f59f42bc",
+    "media": {
+      "src": "/showcase/auto-4056c85b9415ba7a9a988d45.png",
+      "width": 1920,
+      "height": 1080
+    },
+    "createdAt": "2026-09-25",
+    "updatedAt": "2026-09-25"
+  },
+  {
+    "source": "frontend",
+    "group": "frontend",
+    "asset": "screenshots/signal-1.png",
+    "slug": "auto-frontend-signal-1-df258e0404",
+    "title": "signal 1",
+    "category": "slides",
+    "revision": "e5e204fb1f3b06290846e7dcd7aceddabeceec8c",
+    "blobSha": "c653adb6f6e3bca907e8679414d085ca5061f89d",
+    "sha256": "ca5487dc68264f209951400c5edddb93c4ae1fc7174b88c2b3dc54a82e0be64a",
+    "media": {
+      "src": "/showcase/auto-ca5487dc68264f209951400c.png",
+      "width": 1920,
+      "height": 1080
+    },
+    "createdAt": "2026-09-25",
+    "updatedAt": "2026-09-25"
+  },
+  {
+    "source": "frontend",
+    "group": "frontend",
+    "asset": "screenshots/vellum-1.png",
+    "slug": "auto-frontend-vellum-1-9ccabb045e",
+    "title": "vellum 1",
+    "category": "slides",
+    "revision": "e5e204fb1f3b06290846e7dcd7aceddabeceec8c",
+    "blobSha": "1b6246c62096c8bdfb6a669dc56f3d1ac3db1c8f",
+    "sha256": "8c99c96677fec3c94235098b8fe36b9beeefd31ebfd173989f0ce358d91c4b73",
+    "media": {
+      "src": "/showcase/auto-8c99c96677fec3c94235098b.png",
+      "width": 1920,
+      "height": 1080
+    },
+    "createdAt": "2026-09-25",
+    "updatedAt": "2026-09-25"
+  },
+  {
+    "source": "huashu",
+    "group": "huashu",
+    "asset": "assets/showcases/cover/cover-build.png",
+    "slug": "auto-huashu-cover-build-3505d386ab",
+    "title": "cover build",
+    "category": "image",
+    "revision": "0830494ecb1c117e25b313a8114fe55a6bf2b125",
+    "blobSha": "27a5667ea12674739cc423931a429e82c2d035ec",
+    "sha256": "a5494a78ae0e6b7553a961fcd830a817cc75c6d9c85e5f5a714b42f74b587824",
+    "media": {
+      "src": "/showcase/auto-a5494a78ae0e6b7553a961fc.png",
+      "width": 1200,
+      "height": 510
+    },
+    "createdAt": "2026-09-25",
+    "updatedAt": "2026-09-25"
+  },
+  {
+    "source": "huashu",
+    "group": "huashu",
+    "asset": "assets/showcases/cover/cover-takram.png",
+    "slug": "auto-huashu-cover-takram-e377102637",
+    "title": "cover takram",
+    "category": "image",
+    "revision": "0830494ecb1c117e25b313a8114fe55a6bf2b125",
+    "blobSha": "751973ffc4d11509135184f3a11c77af3fe6efb5",
+    "sha256": "8aa520e057fd5acf7030db6568dd10b493c898f175d7f7d71836b66e30ca6817",
+    "media": {
+      "src": "/showcase/auto-8aa520e057fd5acf7030db65.png",
+      "width": 1200,
+      "height": 510
+    },
+    "createdAt": "2026-09-25",
+    "updatedAt": "2026-09-25"
   }
 ]

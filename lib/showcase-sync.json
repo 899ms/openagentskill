@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-09-24T06:13:33.050Z",
-  "updatedAt": "2026-09-24",
+  "checkedAt": "2026-09-25T06:11:30.436Z",
+  "updatedAt": "2026-09-25",
   "sources": [
     {
       "source": "baoyu",
@@ -32,7 +32,7 @@
   ],
   "added": 12,
   "updated": 0,
-  "unchanged": 48,
+  "unchanged": 60,
   "skipped": 0,
-  "deferred": 14
+  "deferred": 2
 }
